@@ -3,6 +3,9 @@
         "imports": [
             {
                 "path": "github.com/gohugoio/hugo-mod-jslibs/alpinejs"
+            },
+            {
+                "path": "github.com/gohugoio/hugo-mod-heroicons"
             }
         ]
     }
